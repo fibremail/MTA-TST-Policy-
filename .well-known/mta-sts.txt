@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx1.yourdomain.com
-mx: mx2.yourdomain.com
-max_age: 86401
+mx: mx1.simplelogin.co
+mx: mx2.simplelogin.co
+max_age: 86400
